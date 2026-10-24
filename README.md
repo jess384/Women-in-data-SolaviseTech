@@ -1,2 +1,3 @@
-# Women-in-data-SolaviseTech
-My learning goals for the SolaviseTech program
+# Women-in-data-SolaviseTech 
+Hi, I'm Jessica and I have background in public health. I am passionate about using innovative approaches to solve real-world problems. I am currently exploring the world of technology and data, and I look forward to developing new skills that will help me grow both personally and professionally.
+My goal is to combine my public heath background with data and technology to support research, improve decision making and contribute to solutions that address public health challenges. I am exicited about this journey and look forward to growing, collaborating and building new things along the way.
